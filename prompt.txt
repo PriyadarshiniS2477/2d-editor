@@ -1,0 +1,12 @@
+modify this template to get the output as given in the above picture
+the dash for the pixel is not coming as that is there in the output give a correct code so that we get the above output that is reqiured
+is the output matching
+why does the line ,rectangle, triangle or circle option is not coming
+give me the compiler code that I should write on the terminal terminal give and also give me the Run code to run the program
+See give me the correct code that matches the test cases that is the uploaded in above and give me the code that match is the output that gives the same output does that of the at as that there in the picture?
+how to push the Code I have written this code in vs Studio how to how to push that push code into git hub repository
+why my source control taby click nothing is coming it is it is just scanning the it is saying something like scanning the page
+Githab is already installed. I have already created repository after clicking on Publish branch, will it be will the scored be sent to the github repository
+See I have push to the court to the git repository but the code is not changed why
+which tab your saying
+which dot your saying
