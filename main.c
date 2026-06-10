@@ -277,55 +277,54 @@ else if(type==4){
 
 }
 
-int main()
-{
+int main(){
 
-   int choice;
+int choice;
 
-   while(1){
+while(1){
 
-     printf("\n2D Graphics Editor\n");
-     printf("Canvas size: 80 x 24\n");
-     printf("1. Add object\n");
-     printf("2. Delete object\n");
-     printf("3. Modify object\n");
-     printf("4. Display picture\n");
-     printf("5. List objects\n");
-     printf("0. Exit\n");
-     printf("Enter choice: ");
+    printf("\n2D Graphics Editor\n");
+    printf("Canvas size: 80 x 24\n");
+    printf("1. Add object\n");
+    printf("2. Delete object\n");
+    printf("3. Modify object\n");
+    printf("4. Display picture\n");
+    printf("5. List objects\n");
+    printf("0. Exit\n");
+    printf("Enter choice: ");
 
-     scanf("%d",&choice);
+    scanf("%d",&choice);
 
-     switch(choice){
+    switch(choice){
 
-         case 1:
-             addObject();
-             break;
+        case 1:
+            addObject();
+            break;
 
-         case 2:
-             deleteObject();
-             break;
+        case 2:
+            deleteObject();
+            break;
 
-         case 3:
-             modifyObject();
-             break;
+        case 3:
+            modifyObject();
+            break;
 
-         case 4:
-             displayPicture();
-             break;
+        case 4:
+            displayPicture();
+            break;
 
-         case 5:
-             listObjects();
-             break;
+        case 5:
+            listObjects();
+            break;
 
-         case 0:
-             printf("Goodbye.\n");
-             return 0;
+        case 0:
+            printf("Goodbye.\n");
+            return 0;
 
-         default:
-             printf("Invalid choice.\n");
-        }
+        default:
+            printf("Invalid choice.\n");
     }
 }
 
+}
 //check is it same
