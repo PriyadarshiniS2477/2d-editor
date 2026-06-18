@@ -277,8 +277,7 @@ else if(type==4){
 
 }
 
-int main()
-{
+int main(){
 
 int choice;
 
@@ -325,5 +324,6 @@ while(1){
         default:
             printf("Invalid choice.\n");
     }
-  }
+}
+
 }
