@@ -277,7 +277,8 @@ else if(type==4){
 
 }
 
-int main(){
+int main()
+{
 
 int choice;
 
