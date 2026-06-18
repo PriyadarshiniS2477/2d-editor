@@ -324,5 +324,5 @@ while(1){
         default:
             printf("Invalid choice.\n");
     }
-  }
+}
 }
